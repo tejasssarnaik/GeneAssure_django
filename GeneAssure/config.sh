@@ -1,0 +1,5 @@
+FASTQ1_PATH='e:/files/SRR19544450_1.fastq.gz'
+FASTQ2_PATH='e:/files/SRR19544450_2.fastq.gz'
+Known_variant_PATH='e:/files/SRR19544453_1.fastq.gz'
+Bed_PATH='e:/files/SRR19544453_2.fastq.gz'
+Hg19='Hg19'

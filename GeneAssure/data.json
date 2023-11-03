@@ -1,0 +1,10 @@
+{
+    "csv": "GeneAssure/medadata.csv",
+    "Known_variant_PATH": [
+        "e:/files/SRR19544453_1.fastq.gz"
+    ],
+    "Bed_PATH": [
+        "e:/files/SRR19544453_2.fastq.gz"
+    ],
+    "Hg38": "Hg38"
+}
